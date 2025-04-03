@@ -1,0 +1,5 @@
+dags/__pycache__/
+logs
+dags/report_gen.py
+dags/check.txt
+reports_directory
